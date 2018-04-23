@@ -1,2 +1,4 @@
-# os
-operating system outlines
+# Course Outlines
+
+## Content
+1. operating system outlines
